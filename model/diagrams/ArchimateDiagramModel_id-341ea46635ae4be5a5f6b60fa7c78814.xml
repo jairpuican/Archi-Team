@@ -4,51 +4,47 @@
     name="Default View"
     id="id-341ea46635ae4be5a5f6b60fa7c78814">
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5072511ba78a4f1484d9a67086401724">
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-3a989f7c616c429b863774df5df4e459"
+      name="Visión de Arquitectura"
+      textAlignment="1">
     <bounds
-        x="108"
-        y="84"
-        width="151"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-c9df057a0d624f849c524431c35512be.xml#id-c9df057a0d624f849c524431c35512be"/>
+        x="24"
+        y="12"
+        width="581"
+        height="166"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f72f572dcdb04161bb653a0f69365c56">
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-8dde53d441de41008116d1b57ba4c611"
+      name="Arquitectura de Negocios"
+      textAlignment="1">
     <bounds
-        x="120"
-        y="240"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-b4164027b77646b7b6e851d2fdd695a9.xml#id-b4164027b77646b7b6e851d2fdd695a9"/>
+        x="24"
+        y="192"
+        width="581"
+        height="157"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b43bd25fb6444c888f2409fbbc74b724">
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-4d7d306dbc0d49b39fdeb88a0b534b0b"
+      name="Arquitectura de Sistemas de información"
+      textAlignment="1">
     <bounds
-        x="442"
-        y="231"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-ec933ca375a048be989c3933f9b20773.xml#id-ec933ca375a048be989c3933f9b20773"/>
+        x="24"
+        y="372"
+        width="581"
+        height="145"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-86579f18d3574a0bbf202b2e8b0cd3f6">
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-3d46c662161948d38074fff082b41fac"
+      name="Arquitectura Tecnológica"
+      textAlignment="1">
     <bounds
-        x="368"
-        y="371"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-429d40bbc95848f39dab9f1201fe4514.xml#id-429d40bbc95848f39dab9f1201fe4514"/>
+        x="24"
+        y="540"
+        width="581"
+        height="145"/>
   </children>
 </archimate:ArchimateDiagramModel>

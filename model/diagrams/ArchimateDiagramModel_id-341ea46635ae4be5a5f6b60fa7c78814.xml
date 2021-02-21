@@ -990,6 +990,18 @@
           xsi:type="archimate:Principle"
           href="Principle_id-24e725b69670411f91b2aef1564b6ffc.xml#id-24e725b69670411f91b2aef1564b6ffc"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4f14ed8ed29b42dab1651b8f5f47e6f8">
+      <bounds
+          x="772"
+          y="114"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-fb548760ecf64e60b0f05c10b57b944a.xml#id-fb548760ecf64e60b0f05c10b57b944a"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"

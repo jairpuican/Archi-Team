@@ -1017,10 +1017,22 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-25c8e58ac2074c1eb388a2aab3275110">
       <bounds
-          x="894"
-          y="186"
-          width="120"
-          height="55"/>
+          x="300"
+          y="384"
+          width="768"
+          height="351"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-2cb7cc3df5fa4d73b3968bc33770fd58">
+        <bounds
+            x="264"
+            y="144"
+            width="324"
+            height="195"/>
+        <archimateElement
+            xsi:type="archimate:Device"
+            href="Device_id-9fcd7ad8652d4d5080dbcf6b30cbb8bf.xml#id-9fcd7ad8652d4d5080dbcf6b30cbb8bf"/>
+      </children>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-0906ef299a3d49238f5d5d80210ee542.xml#id-0906ef299a3d49238f5d5d80210ee542"/>

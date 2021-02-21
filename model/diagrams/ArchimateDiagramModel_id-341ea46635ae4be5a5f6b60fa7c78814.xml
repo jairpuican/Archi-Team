@@ -1013,6 +1013,18 @@
           xsi:type="archimate:Principle"
           href="Principle_id-ffbde30c959048ff8370e75bc9f9cd9f.xml#id-ffbde30c959048ff8370e75bc9f9cd9f"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-25c8e58ac2074c1eb388a2aab3275110">
+      <bounds
+          x="894"
+          y="186"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-0906ef299a3d49238f5d5d80210ee542.xml#id-0906ef299a3d49238f5d5d80210ee542"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"

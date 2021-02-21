@@ -1001,5 +1001,17 @@
         y="792"
         width="3360"
         height="756"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a9d22bc880794ef6b7fb6a787b5e4baa">
+      <bounds
+          x="108"
+          y="168"
+          width="205"
+          height="92"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_id-ffbde30c959048ff8370e75bc9f9cd9f.xml#id-ffbde30c959048ff8370e75bc9f9cd9f"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>

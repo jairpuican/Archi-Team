@@ -995,7 +995,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-6ad72db7562645c79a6c548657affa2a"
       name="Arquitectura de Negocios"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#c0c0c0">
     <bounds
         x="48"
         y="1140"
@@ -1012,30 +1013,6 @@
       <archimateElement
           xsi:type="archimate:Principle"
           href="Principle_id-ffbde30c959048ff8370e75bc9f9cd9f.xml#id-ffbde30c959048ff8370e75bc9f9cd9f"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-25c8e58ac2074c1eb388a2aab3275110">
-      <bounds
-          x="300"
-          y="384"
-          width="768"
-          height="351"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-2cb7cc3df5fa4d73b3968bc33770fd58">
-        <bounds
-            x="264"
-            y="144"
-            width="324"
-            height="195"/>
-        <archimateElement
-            xsi:type="archimate:Device"
-            href="Device_id-9fcd7ad8652d4d5080dbcf6b30cbb8bf.xml#id-9fcd7ad8652d4d5080dbcf6b30cbb8bf"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-0906ef299a3d49238f5d5d80210ee542.xml#id-0906ef299a3d49238f5d5d80210ee542"/>
     </children>
   </children>
   <children

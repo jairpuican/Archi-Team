@@ -978,6 +978,18 @@
           xsi:type="archimate:Principle"
           href="Principle_id-7800ccc9eae34914bf616e19685d9013.xml#id-7800ccc9eae34914bf616e19685d9013"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-04a65a22c2724055988d77ec24eece6f">
+      <bounds
+          x="480"
+          y="432"
+          width="205"
+          height="92"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_id-24e725b69670411f91b2aef1564b6ffc.xml#id-24e725b69670411f91b2aef1564b6ffc"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
